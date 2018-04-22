@@ -70,7 +70,42 @@
             "dimensions":"1080x1920",
             "collections":"pattern",
             "copyright":"Free (do whatever you want)"
+        },
+        {
+            "name":"Tasty wall #7",
+            "author":"Karol Szcześniak",
+            "url":"https://raw.githubusercontent.com/McAwesomePL/PotatoPics/master/wallpapers/TastyWallT4CTeal.png",
+            "thumbnail":"https://raw.githubusercontent.com/McAwesomePL/PotatoPics/master/wallpapers/thumbnails/TastyWallT4CTeal.png",
+            "dimensions":"1080x1920",
+            "collections":"pattern",
+            "copyright":"Free (do whatever you want)"
+        },
+        {
+            "name":"Tasty wall #8",
+            "author":"Karol Szcześniak",
+            "url":"https://raw.githubusercontent.com/McAwesomePL/PotatoPics/master/wallpapers/TastyWallT4CBlue.png",
+            "thumbnail":"https://raw.githubusercontent.com/McAwesomePL/PotatoPics/master/wallpapers/thumbnails/TastyWallT4CBlue.png",
+            "dimensions":"1080x1920",
+            "collections":"pattern",
+            "copyright":"Free (do whatever you want)"
+        },
+        {
+            "name":"Tasty wall #9",
+            "author":"Karol Szcześniak",
+            "url":"https://raw.githubusercontent.com/McAwesomePL/PotatoPics/master/wallpapers/TastyWallT3CBlue.png",
+            "thumbnail":"https://raw.githubusercontent.com/McAwesomePL/PotatoPics/master/wallpapers/thumbnails/TastyWallT3CBlue.png",
+            "dimensions":"1080x1920",
+            "collections":"pattern",
+            "copyright":"Free (do whatever you want)"
+        },
+        {
+            "name":"Tasty wall #10",
+            "author":"Karol Szcześniak",
+            "url":"https://raw.githubusercontent.com/McAwesomePL/PotatoPics/master/wallpapers/TastyWallT2CBlue.png",
+            "thumbnail":"https://raw.githubusercontent.com/McAwesomePL/PotatoPics/master/wallpapers/thumbnails/TastyWallT2CBlue.png",
+            "dimensions":"1080x1920",
+            "collections":"pattern",
+            "copyright":"Free (do whatever you want)"
         }
-        
     ]
 }
