@@ -18,12 +18,12 @@
     ],
     "Wallpapers":[
         {
-            "name":"Tasty wall #1",
+            "name":"Autistic wall",
             "author":"Karol Szcześniak",
             "url":"https://raw.githubusercontent.com/McAwesomePL/PotatoPics/master/wallpapers/TastyWallT5CWhite.png",
             "thumbnail":"https://raw.githubusercontent.com/McAwesomePL/PotatoPics/master/wallpapers/thumbnails/TastyWallT5CWhite.png",
             "dimensions":"1080x1920",
-            "collections":"logo",
+            "collections":"pattern,logo",
             "copyright":"Free (do whatever you want)"
         },
         {
