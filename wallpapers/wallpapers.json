@@ -1,0 +1,82 @@
+{
+    "Collections":[
+        {
+            "name":"Logo",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+        },
+        {
+            "name":"Text",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+        },
+        {
+            "name":"Pattern",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+        },
+        {
+            "name":"Other",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
+        }
+    ],
+    "Wallpapers":[
+        {
+            "name":"Tasty wall #1",
+            "author":"Karol Szcześniak",
+            "url":"https://github.com/McAwesomePL/PotatoPics/blob/master/wallpapers/TastyWallT5CWhite.png",
+            "thumbnail":"https://github.com/McAwesomePL/PotatoPics/blob/master/wallpapers/thumbnails/TastyWallT5CWhite.png",
+            "dimensions":"1080x1920",
+            "collections":"pattern, logo",
+            "copyright":"Free (do whatever you want)",
+            //"downloadable":false
+        },
+        {
+            "name":"Tasty wall #2",
+            "author":"Karol Szcześniak",
+            "url":"https://github.com/McAwesomePL/PotatoPics/blob/master/wallpapers/TastyWallT5bCWhite.png",
+            "thumbnail":"https://github.com/McAwesomePL/PotatoPics/blob/master/wallpapers/thumbnails/TastyWallT5bCWhite.png",
+            "dimensions":"1080x1920",
+            "collections":"pattern, text",
+            "copyright":"Free (do whatever you want)",
+        },
+        {
+            "name":"Tasty wall #3",
+            "author":"Karol Szcześniak",
+            "url":"https://github.com/McAwesomePL/PotatoPics/blob/master/wallpapers/TastyWallT5cCBlack.png",
+            "thumbnail":"https://github.com/McAwesomePL/PotatoPics/blob/master/wallpapers/thumbnails/TastyWallT5cCBlack.png",
+            "dimensions":"1080x1920",
+            "collections":"pattern, text",
+            "copyright":"Free (do whatever you want)",
+        },
+        {
+            "name":"Tasty wall #4",
+            "author":"Karol Szcześniak",
+            "url":"https://github.com/McAwesomePL/PotatoPics/blob/master/wallpapers/TastyWallT5cCBlue1.png",
+            "thumbnail":"https://github.com/McAwesomePL/PotatoPics/blob/master/wallpapers/thumbnails/TastyWallT5cCBlue1.png",
+            "dimensions":"1080x1920",
+            "collections":"pattern, text",
+            "copyright":"Free (do whatever you want)",
+        },
+        {
+            "name":"Tasty wall #5",
+            "author":"Karol Szcześniak",
+            "url":"https://github.com/McAwesomePL/PotatoPics/blob/master/wallpapers/TastyWallT5dCBlack.png",
+            "thumbnail":"https://github.com/McAwesomePL/PotatoPics/blob/master/wallpapers/thumbnails/TastyWallT5dCBlack.png",
+            "dimensions":"1080x1920",
+            "collections":"pattern",
+            "copyright":"Free (do whatever you want)",
+        },
+        {
+            "name":"Tasty wall #6",
+            "author":"Karol Szcześniak",
+            "url":"https://github.com/McAwesomePL/PotatoPics/blob/master/wallpapers/TastyWallT5dCBlue.png",
+            "thumbnail":"https://github.com/McAwesomePL/PotatoPics/blob/master/wallpapers/thumbnails/TastyWallT5dCBlue.png",
+            "dimensions":"1080x1920",
+            "collections":"pattern",
+            "copyright":"Free (do whatever you want)",
+        }
+        
+    ]
+}
