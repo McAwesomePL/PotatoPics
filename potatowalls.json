@@ -18,7 +18,7 @@
     ],
     "Wallpapers":[
         {
-            "name":"Amber logo",
+            "name":"Blue pattern + amber logo",
             "author":"Karol Szcześniak",
             "url":"https://raw.githubusercontent.com/McAwesomePL/PotatoPics/master/wallpapers/TastyWallT5CWhite.png",
             "thumbnail":"https://raw.githubusercontent.com/McAwesomePL/PotatoPics/master/wallpapers/thumbnails/TastyWallT5CWhite.png",
@@ -103,6 +103,24 @@
             "author":"Karol Szcześniak",
             "url":"https://raw.githubusercontent.com/McAwesomePL/PotatoPics/master/wallpapers/TastyWallT2CBlue.png",
             "thumbnail":"https://raw.githubusercontent.com/McAwesomePL/PotatoPics/master/wallpapers/thumbnails/TastyWallT2CBlue.png",
+            "dimensions":"1080x1920",
+            "collections":"logo",
+            "copyright":"Free (do whatever you want)"
+        },
+        {
+            "name":"Dark pink pattern + logo",
+            "author":"Karol Szcześniak",
+            "url":"https://raw.githubusercontent.com/McAwesomePL/PotatoPics/master/wallpapers/LogoPatternPinkBlackBg.png",
+            "thumbnail":"https://raw.githubusercontent.com/McAwesomePL/PotatoPics/master/wallpapers/thumbnails/LogoPatternPinkBlackBg.png.png",
+            "dimensions":"1080x1920",
+            "collections":"logo",
+            "copyright":"Free (do whatever you want)"
+        },
+        {
+            "name":"Dark green pattern + logo",
+            "author":"Karol Szcześniak",
+            "url":"https://raw.githubusercontent.com/McAwesomePL/PotatoPics/master/wallpapers/LogoPatternGreenBlackBg.png",
+            "thumbnail":"https://raw.githubusercontent.com/McAwesomePL/PotatoPics/master/wallpapers/thumbnails/LogoPatternGreenBlackBg.png",
             "dimensions":"1080x1920",
             "collections":"logo",
             "copyright":"Free (do whatever you want)"
