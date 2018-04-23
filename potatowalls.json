@@ -113,7 +113,7 @@
             "url":"https://raw.githubusercontent.com/McAwesomePL/PotatoPics/master/wallpapers/LogoPatternPinkBlackBg.png",
             "thumbnail":"https://raw.githubusercontent.com/McAwesomePL/PotatoPics/master/wallpapers/thumbnails/LogoPatternPinkBlackBg.png.png",
             "dimensions":"1080x1920",
-            "collections":"logo",
+            "collections":"pattern,logo",
             "copyright":"Free (do whatever you want)"
         },
         {
@@ -122,7 +122,7 @@
             "url":"https://raw.githubusercontent.com/McAwesomePL/PotatoPics/master/wallpapers/LogoPatternGreenBlackBg.png",
             "thumbnail":"https://raw.githubusercontent.com/McAwesomePL/PotatoPics/master/wallpapers/thumbnails/LogoPatternGreenBlackBg.png",
             "dimensions":"1080x1920",
-            "collections":"logo",
+            "collections":"pattern,logo",
             "copyright":"Free (do whatever you want)"
         }
     ]
